@@ -1,0 +1,19 @@
+.debug {
+    border: 1px solid red;
+
+}
+.dib {
+    display: inline-block;
+}
+.full-width {
+    width: 100%;
+}
+.input-buy {
+    width: 85%;
+}
+.button-buy {
+    width: 15%;
+}
+.center-text {
+    text-align: center;
+}
